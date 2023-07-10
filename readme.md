@@ -15,3 +15,5 @@ Despues de hacer la instalacion y darle a comenzar, vamos a subirlo a GitHub. Co
 Creamos una nueva rama llamada "development" y cambiamos a esta rama, hacemos algun cambio en uno de los archivos, y lo subimos a github
 
 <img src="./content/captura3.png" alt="tercer paso">
+
+>Nos cambiamos a la rama development y añadimos contenido al archivo readme.md y guardamos los cambios en gibhud
